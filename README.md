@@ -1,12 +1,12 @@
-# _{Application Name}_
+# _Vacation to Aruba_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _A practice HTML/CSS/Bootstrap Website for Epicodus' Programming Course, 3.19.2020_
 
-#### By _**{List of contributors}**_
+#### By _**Allison Mackey & **_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+__
 
 ## Setup/Installation Requirements
 

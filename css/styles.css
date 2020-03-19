@@ -1,0 +1,9 @@
+img {
+  length:50%;
+  width:50%;
+  align-items: center;
+}
+
+body {
+  background-color: aqua;
+}
