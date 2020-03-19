@@ -2,36 +2,36 @@
 
 #### _A practice HTML/CSS/Bootstrap Website for Epicodus' Programming Course, 3.19.2020_
 
-#### By _**Allison Mackey & **_
+#### By _**Allison Mackey & Spencer Moody**_
 
 ## Description
 
-__
+_Learn about places to go when you visit Aruba! View photos and see reviews from people who have been there._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _Clone Repository in GitHub_
+* _Open Index.html in Virtual Studio Code (or your text editor of choice)_
+* _Create your own repository & push new changes to GitHub_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_No known bugs at this time_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_If you have any questions please feel free to contact Allison or Spencer. Make any changes that you see fit!!_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+* _GitHub_
+* _HTML_
+* _CSS_
+* _BootStrap_
+* _Visual Studio Code_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+MIT LICENSE
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2020 **_Allison Mackey & Spencer Moody_**
